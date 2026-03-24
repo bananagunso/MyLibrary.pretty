@@ -207,12 +207,13 @@
 			)
 		)
 	)
-	(pad "1" thru_hole oval
+	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 2.2 2)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
 		(teardrops
 			(best_length_ratio 0.5)
 			(max_length 1)
@@ -264,13 +265,12 @@
 		)
 		(uuid "9fe00181-45a5-4374-b381-49588190b822")
 	)
-	(pad "4" thru_hole roundrect
+	(pad "4" thru_hole oval
 		(at 0 7.62)
 		(size 2.2 2)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(roundrect_rratio 0.15625)
 		(teardrops
 			(best_length_ratio 0.5)
 			(max_length 1)
@@ -322,13 +322,12 @@
 		)
 		(uuid "52ed3400-5442-4db3-aacf-fbfc7948fcf9")
 	)
-	(pad "7" thru_hole roundrect
+	(pad "7" thru_hole oval
 		(at 7.62 2.54)
 		(size 2.2 2)
 		(drill 0.5)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(roundrect_rratio 0.15625)
 		(teardrops
 			(best_length_ratio 0.5)
 			(max_length 1)
