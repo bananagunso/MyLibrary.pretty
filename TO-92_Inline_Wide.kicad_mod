@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 2.54 -3.56 0)
 		(layer "F.SilkS")
-		(uuid "88cb4f73-ed13-4cd2-8bc8-364fb91a062d")
+		(uuid "eb3d7bd9-8bb0-461d-850a-d3207696b66a")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "TO-92_Inline_Wide"
 		(at 2.54 2.79 0)
 		(layer "F.Fab")
-		(uuid "31f1a143-cf8d-45c1-84e7-5504612654d6")
+		(uuid "b8f695ab-57d6-4c9c-b1c2-731343e8f509")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d6ed55f0-c0f0-42b8-9b2d-1cd65bf4b569")
+		(uuid "97381365-4936-4166-b032-c1fdd303e80b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "73684de7-4441-408b-8e4f-fd179db17fbf")
+		(uuid "afec3132-8963-4217-8eae-cda21d98f0ba")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -63,7 +63,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "c303c592-9f44-462d-86c0-005ae2c0944f")
+		(uuid "2903fc28-6379-4f9e-a533-f1e3fa0d7970")
 	)
 	(fp_arc
 		(start 0.1836 -1.098807)
@@ -74,7 +74,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ac6f2a70-e5a4-4076-8d98-bb7cb1a87105")
+		(uuid "64896b50-7373-4732-b718-68880a45f515")
 	)
 	(fp_arc
 		(start 0.74 1.85)
@@ -85,7 +85,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0d21670d-dc6a-4b8c-ab6f-fa473b6df332")
+		(uuid "2e380574-8a94-4cef-b7d3-6f7635a3f056")
 	)
 	(fp_arc
 		(start 2.54 -2.6)
@@ -96,7 +96,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "20d4b0f9-4dd0-4950-9903-806230642abf")
+		(uuid "35046d8a-d773-49c9-924b-0e62e4174641")
 	)
 	(fp_arc
 		(start 4.864184 1.122795)
@@ -107,7 +107,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "0a1514ea-8c58-45ba-8c58-33b4a9bb675c")
+		(uuid "9bbf7f7a-2187-4a11-8353-8cdb4d8925c4")
 	)
 	(fp_line
 		(start -1.01 -2.73)
@@ -117,7 +117,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "49150567-00e8-46d1-a1da-4a62e3486559")
+		(uuid "b92c75fd-5ab9-4f3b-9eff-aff5e62f9821")
 	)
 	(fp_line
 		(start -1.01 -2.73)
@@ -127,7 +127,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "62db8398-b5e8-48b0-91b6-1cfe27149f05")
+		(uuid "7f6faa35-b3f8-4538-95ba-918cf2354a24")
 	)
 	(fp_line
 		(start 6.09 2.01)
@@ -137,7 +137,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7c094e09-aeed-4468-a99e-8ae90fb06193")
+		(uuid "b1eefdb6-f6d0-49ef-9a20-8532c49aed03")
 	)
 	(fp_line
 		(start 6.09 2.01)
@@ -147,7 +147,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "37ccc1b3-c23f-40fb-8cdd-21e8190551b6")
+		(uuid "b1337337-ded0-4e90-8dc6-4fb5eacd3118")
 	)
 	(fp_line
 		(start 0.8 1.75)
@@ -157,7 +157,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "f3a1aa06-7194-43d0-8f35-c6f0e2473269")
+		(uuid "539251ef-cdd0-41a2-9905-7eab47850ec5")
 	)
 	(fp_arc
 		(start 0.786375 1.753625)
@@ -168,7 +168,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "9a820aa9-e965-4045-855a-74c5d54ffa47")
+		(uuid "28aa63a7-df04-4766-9962-986822fa8e06")
 	)
 	(fp_arc
 		(start 2.54 -2.48)
@@ -179,12 +179,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "38bd1c56-c0cd-4e85-921f-6fcd2ec2acbb")
+		(uuid "72b6ccda-a15c-4876-8e73-6fb10cbb4fb8")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 2.54 0 0)
 		(layer "F.Fab")
-		(uuid "ea799828-92fd-4f8e-933a-4ed3b56bb23e")
+		(uuid "3b0deb59-2675-4d2b-91da-4a900ffccf08")
 		(effects
 			(font
 				(size 1 1)
@@ -198,7 +198,7 @@
 		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "85bccd4e-4cf7-4350-976a-d995e87eaad4")
+		(uuid "5fd70379-1676-4146-a21f-56771a2225ab")
 	)
 	(pad "2" thru_hole circle
 		(at 2.54 0)
@@ -206,7 +206,7 @@
 		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "6b181d08-acc1-4ef8-9436-e9c9d429f9aa")
+		(uuid "70c91f22-406e-4e8f-9192-8f50cd411975")
 	)
 	(pad "3" thru_hole circle
 		(at 5.08 0)
@@ -214,7 +214,7 @@
 		(drill 0.4)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "05465576-6928-4f2d-b890-055b03d862a1")
+		(uuid "937b320b-11d2-4f42-906f-0c4dd339fdbe")
 	)
 	(embedded_fonts no)
 	(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
